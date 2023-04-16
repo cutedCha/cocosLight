@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_specimen-sharedassets0",
+    "texture": "fec0e46b-7872-494b-ac03-df6176f8fc54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      611,
+      553
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      611,
+      553
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
